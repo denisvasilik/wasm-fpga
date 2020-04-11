@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/denisvasilik" />
+  <default revision="master" remote="origin" />
+  <!-- top level projects -->
+  <project path="wasm-fpga-cmod-a7-35t" name="wasm-fpga-cmod-a7-35t.git" remote="origin" />
+  <!-- IP projects -->
+  <project path="wasm-fpga-bus" name="wasm-fpga-bus.git" remote="origin" />
+  <project path="wasm-fpga-control" name="wasm-fpga-control.git" remote="origin" />
+  <project path="wasm-fpga-engine" name="wasm-fpga-engine.git" remote="origin" />
+  <project path="wasm-fpga-interconnect" name="wasm-fpga-interconnect.git" remote="origin" />
+  <project path="wasm-fpga-loader" name="wasm-fpga-loader.git" remote="origin" />
+  <project path="wasm-fpga-memory" name="wasm-fpga-memory.git" remote="origin" />
+  <project path="wasm-fpga-stack" name="wasm-fpga-stack.git" remote="origin" />
+  <project path="wasm-fpga-store" name="wasm-fpga-store.git" remote="origin" />
+  <project path="vivado-bus-abstraction-wb" name="vivado-bus-abstraction-wb.git" remote="origin" />
+</manifest>
