@@ -2,9 +2,11 @@
 <manifest>
   <remote name="origin" fetch="ssh://git@github.com/denisvasilik" />
   <default revision="master" remote="origin" />
-  <!-- top level projects -->
+  <!-- project repo -->
+  <project path="wasm-fpga" name="wasm-fpga.git" remote="origin" />
+  <!-- FPGA top level projects -->
   <project path="wasm-fpga-cmod-a7-35t" name="wasm-fpga-cmod-a7-35t.git" remote="origin" />
-  <!-- IP projects -->
+  <!-- FPGA IPs -->
   <project path="wasm-fpga-bus" name="wasm-fpga-bus.git" remote="origin" />
   <project path="wasm-fpga-control" name="wasm-fpga-control.git" remote="origin" />
   <project path="wasm-fpga-engine" name="wasm-fpga-engine.git" remote="origin" />
@@ -13,5 +15,6 @@
   <project path="wasm-fpga-memory" name="wasm-fpga-memory.git" remote="origin" />
   <project path="wasm-fpga-stack" name="wasm-fpga-stack.git" remote="origin" />
   <project path="wasm-fpga-store" name="wasm-fpga-store.git" remote="origin" />
+  <!-- tools -->
   <project path="vivado-bus-abstraction-wb" name="vivado-bus-abstraction-wb.git" remote="origin" />
 </manifest>
