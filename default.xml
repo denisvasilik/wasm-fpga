@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.com/denisvasilik" />
+  <remote name="origin" fetch="ssh://git@github.com/denisvasilik" />
   <default revision="master" remote="origin" />
   <!-- top level projects -->
   <project path="wasm-fpga-cmod-a7-35t" name="wasm-fpga-cmod-a7-35t.git" remote="origin" />
