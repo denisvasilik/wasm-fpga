@@ -2,7 +2,7 @@
 
 This is the project repository of the WebAssembly FPGA runtime. It comprises
 project goals, architectural documentation and general information regarding
-development and contribution. 
+development and contribution.
 
 # Prerequisites
 

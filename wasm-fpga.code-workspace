@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "../vivado-bus-abstraction-wb"
+		},
+		{
+			"path": "../wasm-fpga"
 		},
 		{
 			"path": "../wasm-fpga-bus"
