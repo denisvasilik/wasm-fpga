@@ -1,38 +1,50 @@
 {
 	"folders": [
-		{
-			"path": "../vivado-bus-abstraction-wb"
-		},
-		{
-			"path": "../wasm-fpga"
-		},
-		{
-			"path": "../wasm-fpga-bus"
-		},
-		{
-			"path": "../wasm-fpga-cmod-a7-35t"
-		},
-		{
-			"path": "../wasm-fpga-control"
-		},
-		{
-			"path": "../wasm-fpga-engine"
-		},
-		{
-			"path": "../wasm-fpga-interconnect"
-		},
-		{
-			"path": "../wasm-fpga-loader"
-		},
-		{
-			"path": "../wasm-fpga-memory"
-		},
-		{
-			"path": "../wasm-fpga-stack"
-		},
-		{
-			"path": "../wasm-fpga-store"
-		}
-	],
+        {
+            "path": "../vivado-bus-abstraction-wb"
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "../wasm-fpga-bus"
+        },
+        {
+            "path": "../wasm-fpga-cmod-a7-35t"
+        },
+        {
+            "path": "../wasm-fpga-control"
+        },
+        {
+            "path": "../wasm-fpga-engine"
+        },
+        {
+            "path": "../wasm-fpga-interconnect"
+        },
+        {
+            "path": "../wasm-fpga-loader"
+        },
+        {
+            "path": "../wasm-fpga-memory"
+        },
+        {
+            "path": "../wasm-fpga-stack"
+        },
+        {
+            "path": "../wasm-fpga-store"
+        },
+        {
+            "path": "../wasm-fpga-uart"
+        },
+        {
+            "path": "../wasm-fpga-uart-interconnect"
+        },
+        {
+            "path": "../wasm-fpga-debug"
+        },
+        {
+            "path": "../../binalyzer/binalyzer-vmf"
+        }
+    ],
 	"settings": {}
 }
